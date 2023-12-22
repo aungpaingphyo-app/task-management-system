@@ -1,0 +1,11 @@
+**** Admin Login Info ***
+
+
+username -> admin
+password -> taskadmin
+
+
+**** User Login Info ***
+
+username ->jhondoej
+password ->taskjhondoe
